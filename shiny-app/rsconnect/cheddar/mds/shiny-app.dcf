@@ -1,0 +1,12 @@
+name: shiny-app
+title: shiny-app
+username: mds
+account: mds
+server: cheddar
+hostUrl: http://cheddar:3939/__api__
+appId: 4
+bundleId: 7
+url: http://cheddar:3939/content/4/
+when: 1614725698.07104
+asMultiple: FALSE
+asStatic: FALSE

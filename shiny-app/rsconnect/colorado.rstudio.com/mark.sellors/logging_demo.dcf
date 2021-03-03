@@ -1,0 +1,12 @@
+name: logging_demo
+title: logging demo
+username: mark.sellors
+account: mark.sellors
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 8780
+bundleId: 43893
+url: https://colorado.rstudio.com/rsc/content/8780/
+when: 1614779495.45644
+asMultiple: FALSE
+asStatic: FALSE
